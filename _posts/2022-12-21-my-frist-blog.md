@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to My Website!
+title: My first blog!
 subtitle: contains things about me.
 author: Naomi
 categories: Aesthetic
