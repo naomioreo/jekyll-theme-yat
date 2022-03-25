@@ -8,7 +8,7 @@ tags: firstblog
 sidebar: []
 ---
 
-The below is my favoriate TV cartoon show atm. 
+The below is my favorite TV cartoon show atm. 
 
 ## The Miraculous ladybug hehe
 
